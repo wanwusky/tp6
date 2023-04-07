@@ -1,0 +1,16 @@
+{
+    "name": "apart/wanwu",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Apart\\Wanwu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wanwu"
+        }
+    ],
+    "require": {},
+   "minimum-stability": "dev"
+}
